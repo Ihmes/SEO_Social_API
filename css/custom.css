@@ -1,0 +1,161 @@
+.ag-social-buttons {
+  margin: auto;
+}
+
+.ag-social-buttons {
+  display: inline-block;
+}
+
+.ag-social-buttons .ag-social-clear {
+  display: block;
+  clear: both;
+}
+
+.ag-social-buttons .ag-social-button {
+  display: block;
+  float: left;
+  margin: 0px 10px 0px 0px;
+  text-decoration: none;
+}
+
+.ag-social-buttons .ag-social-button:last-of-type {
+  margin-right: 0px;
+}
+
+.ag-social-buttons .ag-social-button span {
+  display: block;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  color: #444;
+  text-decoration: none;
+  line-height: 1;
+}
+
+.ag-social-buttons.design-0 .ag-social-button {
+  background: url(../gfx/btn-0.svg) no-repeat 0px 0px;
+  background-size: 80px 360px;
+  width: 80px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+.ag-social-buttons.design-0 .ag-social-twitter {
+  background-position: 0px -60px;
+}
+.ag-social-buttons.design-0 .ag-social-google {
+  background-position: 0px -120px;
+}
+.ag-social-buttons.design-0 .ag-social-pinterest {
+  background-position: 0px -180px;
+}
+.ag-social-buttons.design-0 .ag-social-xing {
+  background-position: 0px -240px;
+}
+.ag-social-buttons.design-0 .ag-social-linkedin {
+  background-position: 0px -300px;
+}
+.ag-social-buttons.design-0 .ag-social-button span {
+  padding: 10px 4px;
+}
+
+.ag-social-buttons.design-0 .magnify {
+  background: url(../gfx/btn-0-wide.svg) no-repeat 0px 0px;
+  background-size: 120px 360px;
+  width: 120px;
+  height: 60px;
+}
+.ag-social-buttons.design-0 .magnify-twitter {
+  background-position: 0px -60px;
+}
+.ag-social-buttons.design-0 .magnify-google {
+  background-position: 0px -120px;
+}
+.ag-social-buttons.design-0 .magnify-pinterest {
+  background-position: 0px -180px;
+}
+.ag-social-buttons.design-0 .magnify-xing {
+  background-position: 0px -240px;
+}
+.ag-social-buttons.design-0 .magnify-linkedin {
+  background-position: 0px -300px;
+}
+
+.ag-social-buttons.design-1 .ag-social-button {
+  background: url(../gfx/btn-1.svg) no-repeat 0px 0px;
+  background-size: 170px 204px;
+  width: 170px;
+  height: 34px;
+  margin-right: 8px;
+}
+
+.ag-social-buttons.design-1 .ag-social-twitter {
+  background-position: 0px -34px;
+}
+.ag-social-buttons.design-1 .ag-social-google {
+  background-position: 0px -68px;
+}
+.ag-social-buttons.design-1 .ag-social-pinterest {
+  background-position: 0px -102px;
+}
+.ag-social-buttons.design-1 .ag-social-xing {
+  background-position: 0px -136px;
+}
+.ag-social-buttons.design-1 .ag-social-linkedin {
+  background-position: 0px -170px;
+}
+.ag-social-buttons.design-1 .ag-social-button span {
+  padding: 9px 4px;
+  width: 72px;
+}
+
+.ag-social-buttons.design-2 .ag-social-button {
+  background: url(../gfx/btn-2.svg) no-repeat 0px 0px;
+  width: 72px;
+  height: 26px;
+  margin-right: 5px;
+}
+.ag-social-buttons.design-2 .ag-social-twitter {
+  background-position: 0px -26px;
+}
+.ag-social-buttons.design-2 .ag-social-google {
+  background-position: 0px -52px;
+}
+.ag-social-buttons.design-2 .ag-social-xing {
+  background-position: 0px -78px;
+}
+.ag-social-buttons.design-2 .ag-social-button span {
+  padding: 5px 3px 0px;
+  overflow: hidden;
+  width: 48px;
+  float: right;
+  color: #fff;
+}
+
+.ag-social-buttons.design-3 .ag-social-button {
+  background: url(../gfx/btn-3.png) no-repeat 0px 0px;
+  width: 100px;
+  height: 20px;
+  margin-right: 12px;
+}
+.ag-social-buttons.design-3 .ag-social-twitter {
+  background-position: -100px 0px;
+  width: 111px;
+}
+.ag-social-buttons.design-3 .ag-social-google {
+  background-position: -211px 0px;
+  width: 75px;
+}
+.ag-social-buttons.design-3 .ag-social-xing {
+  background-position: -286px 0px;
+  width: 99px;
+}
+.ag-social-buttons.design-3 .ag-social-button span {
+  float: right;
+  padding: 5px 2px;
+  width: 35px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 12px;
+  color: #666;
+  font-weight: normal;
+}
